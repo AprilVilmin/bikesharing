@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# csv files
+201908-citibike-tripdata.csv
+Updated_NYC_Citibike_Challenge.csv
+
+# zip file
+NYC_Citibike_Challenge.zip
