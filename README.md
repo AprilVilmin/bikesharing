@@ -4,8 +4,11 @@
 After a trip to New York City with Kate, a friend of yours, the two of you came up with an idea to came up with the idea of starting a bikesharing program in Des Moines. This program/company will be based on the Citi Bike program you used in New York City. Kate found someone who may be interested in investing money in your idea. Kate is going to pitch the program to the investor(s), while you are going to focus on preparing the presentation and working with the data. You have decided to use Tableau Public as the presentation tool and public Citi Bike data to do your analysis. You decided to look at this data in multiple ways including: by trip duration, by gender, by usertype, by age and by location. 
 
 ## Results
-Below are several visualizations made from the public Citi Bike data.
+Below are several visualizations made from the public Citi Bike data. ![Link to Story](https://public.tableau.com/app/profile/april.vilmin/viz/Challenge_16497262684860/ChallengeStory?publish=yes)
 
+
+
+https://public.tableau.com/app/profile/april.vilmin/viz/Challenge_16497262684860/ChallengeStory?publish=yes
 ### Checkout Times for Users
 
 ![Checkout Times for Users.png](https://github.com/AprilVilmin/bikesharing/blob/main/Checkout%20Time%20for%20Users.png)
