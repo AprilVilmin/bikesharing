@@ -5,6 +5,39 @@ After a trip to New York City with Kate, a friend of yours, the two of you came 
 
 ## Results
 
+### Checkout Times for Users
+
+![Checkout Times for Users.png](https://github.com/AprilVilmin/bikesharing/blob/main/Checkout%20Time%20for%20Users.png)
+
+### Checkout Times by Gender
+![Checkout Times by Gender.png](https://github.com/AprilVilmin/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
+
+### Trips by Weekday per Hour
+![Trips by Weekday per Hour.png](https://github.com/AprilVilmin/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
+
+### Trips by Gender (Weekday per Hour)
+
+![Trips by Gender (Weekday per Hour).png](https://github.com/AprilVilmin/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+
+### Trips by Gender by Weekday
+![Trips by Gender by Weekday.png](https://github.com/AprilVilmin/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+### Bike Utilization
+
+![Bike Utilization.png](https://github.com/AprilVilmin/bikesharing/blob/main/Bike%20Utilization.png)
+
+### Bike Repairs
+
+![Bike Repairs.png](https://github.com/AprilVilmin/bikesharing/blob/main/Bike%20Repairs.png)
+
+
+
+
+
+
+
+
+
 ## Summary
 
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
