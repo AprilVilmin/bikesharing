@@ -29,7 +29,7 @@ After a trip to New York City with Kate, a friend of yours, the two of you came 
 ### Trips by Gender by Weekday
 ![Trips by Gender by Weekday.png](https://github.com/AprilVilmin/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-### This heatmap shows a variety of things. First it shows that there are more annual subscrbers than pay as they go users. Meaning that the bikes are utilized more by locals that tourists. Second, it confirms that males utilize the bikes more than females or those whose gender/sex is unknown. Third, There are more male subscribers than female or subscribers of unknown gender/sex. Fourth, Thursday appars to be the heavest day of usage for subscribers. These subscribers happen to be male. Saturday and Sundays appear to be the heavest days of usage for nonsubscription usage and these users appear to be those of unknown gender/sex.
+#### This heatmap shows a variety of things. First it shows that there are more annual subscrbers than pay as they go users. Meaning that the bikes are utilized more by locals that tourists. Second, it confirms that males utilize the bikes more than females or those whose gender/sex is unknown. Third, There are more male subscribers than female or subscribers of unknown gender/sex. Fourth, Thursday appars to be the heavest day of usage for subscribers. These subscribers happen to be male. Saturday and Sundays appear to be the heavest days of usage for nonsubscription usage and these users appear to be those of unknown gender/sex.
 
 ### Bike Utilization
 
