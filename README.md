@@ -7,8 +7,6 @@ After a trip to New York City with Kate, a friend of yours, the two of you came 
 Below are several visualizations made from the public Citi Bike data. ![Link to Story](https://public.tableau.com/app/profile/april.vilmin/viz/Challenge_16497262684860/ChallengeStory?publish=yes)
 
 
-
-https://public.tableau.com/app/profile/april.vilmin/viz/Challenge_16497262684860/ChallengeStory?publish=yes
 ### Checkout Times for Users
 
 ![Checkout Times for Users.png](https://github.com/AprilVilmin/bikesharing/blob/main/Checkout%20Time%20for%20Users.png)
