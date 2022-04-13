@@ -24,7 +24,7 @@ After a trip to New York City with Kate, a friend of yours, the two of you came 
 ### Trips by Gender (Weekday per Hour)
 ![Trips by Gender (Weekday per Hour).png](https://github.com/AprilVilmin/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-#### This illustration makes the difference in bike usage by gender/sex even more striking, as it shows males in much deeper hues than females or unknowns meaning much greater usage. This holds true for rush hours and weekends. This would help help Kate and the investors determine who the potential audience is and what the best time to market to them is.
+#### This heatmap makes the difference in bike usage by gender/sex even more striking, as it shows males in much deeper hues than females or unknowns meaning much greater usage. This holds true for rush hours and weekends. This would help help Kate and the investors determine who the potential audience is and what the best time to market to them is.
 
 ### Trips by Gender by Weekday
 ![Trips by Gender by Weekday.png](https://github.com/AprilVilmin/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
